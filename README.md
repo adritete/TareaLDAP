@@ -1,3 +1,3 @@
 # TareaLDAP
 
-La tarea me parece asequible.
+La tarea me pareció asequible en todos los apartados.
